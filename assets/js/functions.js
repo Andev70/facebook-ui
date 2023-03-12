@@ -398,7 +398,7 @@ var e = {
         var changeThemeToDark = () => {
             document.documentElement.setAttribute("data-theme", "dark") // set theme to dark
             if (dir == 'rtl') {
-                style.setAttribute('href', 'assets/css/style-dark-rtl.css');
+                style.setAttribute('href', '../css/style-53b62b77ddae.css');
             } else {
                 style.setAttribute('href', 'assets/css/style-dark.css');
             }
